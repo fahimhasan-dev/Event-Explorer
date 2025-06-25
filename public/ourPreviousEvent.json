@@ -1,0 +1,95 @@
+[
+    {
+      "id": 7,
+      "event_name": "Islamic Family & Parenting Workshop",
+      "date": "2024-12-10",
+      "location": "Baitul Mukarram Auditorium, Dhaka",
+      "thumbnail": "https://i.ibb.co.com/VWJvNy14/The-Role-of-Parents-in-Islam-Building-Character.jpg",
+      "logo":"https://i.ibb.co.com/WNxqTMDv/3e2cce4c1ba8b08e754f4ccbbc84d23d.jpg",
+      "category": "Islamic",
+      "entry_fee": "500",
+       "description": "Learn practical parenting strategies based on the guidance of Islamic scholars and psychologists to build a strong relationship with your children, rooted in the teachings of the Qur'an and Sunnah.",
+      "speakers": [
+        {
+          "name": "Mufti Abdullah Al-Mahmud",
+          "title": "Islamic Scholar",
+          "topic": "Raising Children According to Sunnah"
+        },
+        {
+          "name": "Dr. Rahima Khatun",
+          "title": "Islamic Psychologist",
+          "topic": "Emotional Intelligence in Muslim Families"
+        }
+      ],
+      "average_rating": 4.8,
+      "feedback": [
+        {
+          "user": "Asma Rahman",
+          "comment": "Insightful and deeply rooted in the Qur'an and Sunnah. A must-attend!"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "event_name": "FutureTech Summit 2025",
+      "date": "2025-02-20",
+      "location": "Dhaka Tech Park",
+      "thumbnail": "https://i.ibb.co.com/pvmJm5vX/ramadan-mubarak-from-my-amazing-programming-hero-team.jpg",
+      "logo":"https://i.ibb.co.com/N2d8L9NZ/programming-hero-icon.png",
+      "category": "Tech",
+      "entry_fee": "2000",
+      "speakers": [
+        {
+          "name": "Engr. Nayeem Islam",
+          "title": "AI Engineer",
+          "topic": "The Role of AI in Future Societies"
+        },
+        {
+          "name": "Shamima Tanjim",
+          "title": "Cybersecurity Analyst",
+          "topic": "Digital Safety for the Next Generation"
+        }
+      ],
+      "average_rating": 4.5,
+      "feedback": [
+        {
+          "user": "Tanvir Hossain",
+          "comment": "Well-organized and extremely informative on emerging tech!"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "event_name": "Art & Expression Expo",
+      "date": "2025-03-05",
+      "location": "National Art Gallery, Chittagong",
+      "thumbnail": "https://i.ibb.co.com/rGvM4t4N/cyvptsspxulg62hojqg5.jpg",
+      "logo":"https://i.ibb.co.com/DgQ0W3x6/mobile-app-ux-ui-basics.jpg",
+      "category": "Art",
+      "entry_fee": "5000",
+      "speakers": [
+        {
+          "name": "Farzana Nahar",
+          "title": "Visual Artist",
+          "topic": "Art as a Tool for Social Change"
+        },
+        {
+          "name": "Anik Das",
+          "title": "Art Critic & Curator",
+          "topic": "The Evolution of Bangladeshi Modern Art"
+        }
+      ],
+      "average_rating": 4.7,
+      "feedback": [
+        {
+          "user": "Lamia Sultana",
+          "comment": "Loved the blend of culture, creativity, and critical discussion!"
+        },
+        {
+          "user": "Rezaul Karim",
+          "comment": "Inspiring for young artists. Great atmosphere!"
+        }
+      ]
+    }
+  ]
+  
